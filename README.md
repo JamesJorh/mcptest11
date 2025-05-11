@@ -1,5 +1,8 @@
-# VSCode Python调试学习项目
+# VSCode Python 调试学习项目
 ## 项目结构
-- 基础调试示例
-- 高级调试场景
-- 真实案例
+- basic_debugging/
+- advanced_debugging/
+- real_world_examples/
+
+## 调试配置
+项目包含了.vscode/launch.json调试设置
